@@ -22,7 +22,7 @@ the repo public to show my attempt and provide the source code.
 ## Screenshot
 
 <a href="https://cdn.discordapp.com/attachments/733779754121166978/822505618149605477/unknown.png">
- <img src="https://cdn.discordapp.com/attachments/733779754121166978/822505788626173952/unknown.png)" alt="screenshot 1"/>
+ <img src="https://cdn.discordapp.com/attachments/733779754121166978/822505788626173952/unknown.png" alt="screenshot 1"/>
 </a>
 
 <br>
