@@ -1,0 +1,24 @@
+<Window x:Class="CanetisRadar2.View.RightScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:CanetisRadar2.View"
+        mc:Ignorable="d"
+        Title="CanetisRadar2 - Right screen"
+        WindowStyle="None" ResizeMode="NoResize">
+    <StackPanel>
+        <Rectangle
+            Height="240"
+            Width="300"
+            Fill="{Binding ColorSpeakerRightTop, UpdateSourceTrigger=PropertyChanged}" />
+        <Rectangle
+            Height="600"
+            Width="300"
+            Fill="{Binding ColorSpeakerRightCenter, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}" />
+        <Rectangle
+            Height="240"
+            Width="300"
+            Fill="{Binding ColorSpeakerRightBottom, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}" />
+    </StackPanel>
+</Window>
