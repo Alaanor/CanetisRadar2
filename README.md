@@ -45,12 +45,12 @@ This so I can keep fullscreen and my 165hz for apex.
 
 ## Conclusion
 
-There were some progress compared the first version, however, I now notice that use the **volume metric**
-is **not a good solution**. I was able to find the direction of a far fight in apex after a solid 3-4 solid seconds.
-This is a first step and I'm happy with this one. But this require to first notice the clue, stop my character
+There were some progress compared the first version, however, I now notice that the use of the **volume metric**
+is **not a good solution**. I was able to find the direction of a far fight in apex after a solid 3-4 seconds.
+This is a first step and I'm happy with this one. But this require to first notice the cue, stop my character
 (so it doesn't make any noise anymore) and clearly see on the bar where the direction is.
 
-In close range it very hard/almost impossible to notice where the shoot was and not in fast manner.
+In close range it is very hard/almost impossible to notice where the shoot is from and not in a fast manner.
 
 ## Licence
 
